@@ -1,0 +1,34 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "practicasguiadas"
+include ':practicaguiada1'
+include ':practicaguiada2'
+include ':practicaguiada3'
+include ':practicaguiada4'
+include ':practicaguiada5'
+include ':practicaguiada6'
+include ':practicaguiada7'
+include ':practicaguiada19'
+include ':practicaguiada22'
+include ':errores'
+include ':practicaguiada8'
+include ':practicaguiada9'
+include ':practicaguiada10'
+include ':practicaguiada11'
+include ':practicaguiada12'
+include ':practicaguiada13'
+include ':practicaguiada14'
+include ':practicaguiada15'
+include ':practicaguiada16'

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "881257700565",
+    "firebase_url": "https://fir-firebase-9fdf3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-firebase-9fdf3",
+    "storage_bucket": "fir-firebase-9fdf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881257700565:android:910233f279dad7b027165c",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881257700565-hinhlbq627etf4uc84m78bgmg4eldu1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5tQBwOcglFQXCbQik4ftFzBL9E0zZkow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881257700565-hinhlbq627etf4uc84m78bgmg4eldu1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881257700565:android:865bcb20d870499f27165c",
+        "android_client_info": {
+          "package_name": "com.example.practicaguiada22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881257700565-hinhlbq627etf4uc84m78bgmg4eldu1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5tQBwOcglFQXCbQik4ftFzBL9E0zZkow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881257700565-hinhlbq627etf4uc84m78bgmg4eldu1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

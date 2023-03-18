@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="Embedded JDK" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/errores" />
+            <option value="$PROJECT_DIR$/practicaguiada1" />
+            <option value="$PROJECT_DIR$/practicaguiada10" />
+            <option value="$PROJECT_DIR$/practicaguiada11" />
+            <option value="$PROJECT_DIR$/practicaguiada12" />
+            <option value="$PROJECT_DIR$/practicaguiada13" />
+            <option value="$PROJECT_DIR$/practicaguiada14" />
+            <option value="$PROJECT_DIR$/practicaguiada15" />
+            <option value="$PROJECT_DIR$/practicaguiada16" />
+            <option value="$PROJECT_DIR$/practicaguiada19" />
+            <option value="$PROJECT_DIR$/practicaguiada2" />
+            <option value="$PROJECT_DIR$/practicaguiada22" />
+            <option value="$PROJECT_DIR$/practicaguiada3" />
+            <option value="$PROJECT_DIR$/practicaguiada4" />
+            <option value="$PROJECT_DIR$/practicaguiada5" />
+            <option value="$PROJECT_DIR$/practicaguiada6" />
+            <option value="$PROJECT_DIR$/practicaguiada7" />
+            <option value="$PROJECT_DIR$/practicaguiada8" />
+            <option value="$PROJECT_DIR$/practicaguiada9" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

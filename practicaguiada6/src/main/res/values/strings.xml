@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">practicaguiada6</string>
+    <string name="nombre">Nombre</string>
+    <string name="verificar">Verificar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="rechazar">Rechazar</string>
+    <string name="pregunta">Hola %s ¿Eres alumno del IES Dr Fleming?</string>
+    <string name="demo">Demo Intents Implicitos</string>
+    <string name="pagina">Abre página Web</string>
+    <string name="llamada">Llamada de teléfono</string>
+    <string name="camara">Cámara de fotos</string>
+    <string name="correo">Correo</string>
+    <string name="mapa">Google Maps</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">praticaguiada8</string>
+    <string-array name="opcionesAlmacenamiento">
+        <item>interno</item>
+        <item>externo</item>
+    </string-array>
+</resources>
