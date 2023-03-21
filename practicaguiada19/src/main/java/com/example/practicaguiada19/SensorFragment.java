@@ -47,8 +47,7 @@ public class SensorFragment extends Fragment implements SensorEventListener {
     }
 
     @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                             Bundle savedInstanceState) {
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View v = inflater.inflate(R.layout.fragment_sensor, container, false);
         sensorInfo = v.findViewById(R.id.textViewInfoSensor);
         MainActivity activity = (MainActivity) getActivity();

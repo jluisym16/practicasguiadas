@@ -13,10 +13,12 @@ import java.io.InputStreamReader;
 
 public class BibliotecaSQLiteHelper extends SQLiteOpenHelper {
     Context context;
+
     public BibliotecaSQLiteHelper(Context context, int version) {
         super(context, "biblioteca.db", null, version);
         this.context = context;
     }
+
     @Override
     public void onCreate(SQLiteDatabase db) {
         InputStream stream = context.getResources().openRawResource(R.raw.biblioteca);
@@ -30,6 +32,7 @@ public class BibliotecaSQLiteHelper extends SQLiteOpenHelper {
             Log.e("SQL", e.getLocalizedMessage());
         }
     }
+
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
     }
